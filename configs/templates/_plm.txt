@@ -123,3 +123,4 @@ NEST_CONTAINERS_BASE_IMAGE = size:NA, imageids:1, imageid1:bionic-server-cloudim
 16-16384=platinum64
 16-32768=mercury64
 32-65536=latinum64
+64-491520=stupid64
